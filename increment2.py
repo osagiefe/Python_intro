@@ -1,0 +1,9 @@
+i=2
+while i < 30:
+        i += 2
+        print(i)
+        if i == 24:
+            i = i * 5
+            print(i)
+            #y = i
+            break

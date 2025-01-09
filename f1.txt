@@ -1,1 +1,2 @@
-I love computing
+I love computing. Also, I love using computing to solve challenges and help 
+people who are experiencing challenges working with computer software.

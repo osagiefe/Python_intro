@@ -1,4 +1,9 @@
+"""
+Write an input python code that will ask for your 
+name,designation,email_address,phone m_no and print out the details.
 
+
+"""
 print("Enter your name")
 name=input()
 print("Enter your designation")

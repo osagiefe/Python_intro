@@ -1,4 +1,9 @@
 #Loop through the list of items and print them out
-listofitems=["banana", "groundnut", "apple", "pawpaw", "orange"]
+listofitems=["banana", "groundnut", "apple", "groundnut", "groundnut", "pawpaw", "orange"]
 for element in listofitems:
-    print(element)
+    #print(element)
+    if element !="groundnut":
+        print("Print", element)
+    else:
+        continue
+    

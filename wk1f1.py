@@ -1,6 +1,6 @@
 """
 Write an input python code that will ask for your 
-name,designation,email_address,phone m_no and print out the details.
+name,designation,email_address,phone # and print out the details.
 
 
 """

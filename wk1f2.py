@@ -1,4 +1,8 @@
-
+"""
+2.	Write python user input code that will ask for 
+items bought in the market and add the prices
+items are bread, yam,rice and stationeries
+"""
 print("What item did you purchase from the store")
 bread=input()
 print("How much did you spend on bread?")
